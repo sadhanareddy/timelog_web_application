@@ -1,0 +1,58 @@
+#header
+{
+	float:right;
+	color:white;
+	font-family: "Times New Roman", Times, serif;
+}
+#caption
+{
+	float:right;
+	color:lightgreen;
+}
+
+#main
+{
+	background-color: black;
+}
+
+#emp_login
+{
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+form
+{
+	margin-top:50px; 
+}
+
+#time
+{
+	float:right;
+}
+
+body
+{
+	/*background-image: url(images/images5.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;*/
+}
+
+#homebtn
+{
+	float: right;
+}
+
+#namereg,#mailreg,#mobilereg
+{
+    width: 250px;
+    height: 30px;
+}
+
+#forgot
+{
+	font-size: 15px;
+}
+
+
+
+
